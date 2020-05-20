@@ -19,7 +19,7 @@ Aquifer Settings
  
 
 BD_AluvioesTejo.csv A CSV table with 223 records of data related to the aquifer system
-It contains values for ID_Local, Furo (ID Original),M (Datum Lisboa Hayford - m), P (Datum Lisboa Hayford - m),Origen, Geology, Hydraulic, Chemical, Quality and Quantity (boolean)
+It contains values for ID_Local, Furo (ID Original),M (Datum Lisboa Hayford - m), P (Datum Lisboa Hayford - m),Origen, Geology, Hydraulic data, Chemical data, Quality and Quantity monitorization (boolean)
 
 
 
